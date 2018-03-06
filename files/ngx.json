@@ -1,0 +1,8 @@
+{
+    "target": ["web"],
+    "appName": "starter_app",
+    "pwa": false,
+    "ui": "material",
+    "layout": "simple",
+    "auth": false
+  }
