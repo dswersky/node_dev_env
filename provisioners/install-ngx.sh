@@ -1,5 +1,5 @@
 #install ngx-rocket
-sudo npm install -g generator-ngx-rocket
+sudo npm install -g generator-ngx-rocket@6.2.1
 #change to app directory
 cd /home/vagrant/
 mkdir starter_app
